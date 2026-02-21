@@ -1,6 +1,9 @@
 <!doctype html>
 <head>
 	<title>Main page</title>
+	<style>
+		h1 { color : red; }
+	</style>
 </head>
 <body>
 <h1>My web site main page</h1>
@@ -10,4 +13,5 @@
 	<a href="about.html" target="_blank">About</a>
 	<a href="contacts.html">Contacts...</a>
 </nav>
+<footer>Copyright</footer>
 </body>
