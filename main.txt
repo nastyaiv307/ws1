@@ -1,8 +1,11 @@
+<head>
+	<title>Main page</title>
+</head>
 <body>
 <h1>My web site main page</h1>
 <h2>Menu</h2>
 <nav>
 	<a href="page1.html">Page 1</a>
-	<a href="about.html">About</a>
+	<a href="about.html" target="_blank">About</a>
 </nav>
 </body>
